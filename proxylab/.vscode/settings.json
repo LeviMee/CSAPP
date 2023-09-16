@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "csapp.h": "c",
+        "thread.h": "c",
+        "stdio.h": "c",
+        "parse_forward.h": "c"
+    }
+}
